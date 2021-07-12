@@ -34,7 +34,7 @@ router.get("/api/workouts/range", (req, res) => {
         {
             day: 
             {
-                $gte: new Date((new Date().getTime() - (7 * 24 * 60 * 60 * 1000)))
+                $gte: new Date((new Date().getTime() - (8 * 24 * 60 * 60 * 1000)))
             }
         }
         ).sort({ "date": -1 }
