@@ -1,6 +1,10 @@
 # 18-Nosql-Homework-Workout-Tracker
 
 
+ ##  Link to Deployed Application
+
+ https://arcane-stream-48526.herokuapp.com/?id=60eccd742e749f00158abeda
+
 ## Table of contents
 - [Description](#description)
 - [Link to Deployed Application](#link-to-deployed-application)
@@ -11,10 +15,6 @@
 ## Description
 
  A workout tracker using a Mongo database with a Mongoose schema. Routes with Express.
-
- ##  Link to Deployed Application
-
- https://arcane-stream-48526.herokuapp.com/?id=60eccd742e749f00158abeda
 
  ## Screenshots
 
